@@ -38,7 +38,7 @@ rm -rf .htaccess 404.html index.html .user.ini
 ```
 > 执行命令从 Github 克隆到当前目录。
 ```
-git clone https://github.com/cedar2025/Xboard.git ./
+git clone https://github.com/FHQ666/Xboard.git ./
 ```
 > 复制一份docker-compose.yaml文件
 ```
